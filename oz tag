@@ -1,0 +1,11 @@
+<h1> This is an H1 heading </h1>
+<h2> This is an H2 heading <strong>heading</strong></h2>
+
+<p>This is a paragraph</p>
+
+<img src="http://www.hercampus.com/sites/default/files/2014/11/23/BlackandGold.png">
+
+<ul>
+	<li>Home</li>
+	<li>About</li>
+	<li>Contact</li>
